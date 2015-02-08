@@ -1,0 +1,18 @@
+{
+    "context": "client",
+    "identifier": "ClassicWater",
+    "display_name": "Classic Water",
+    "description": "Replaces the bland water of today with the amazing water that had so much depth from early Beta!",
+    "author": "Stuart98",
+    "version": "1.0",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "enabled": true,
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Planets",
+        "Water"
+    ],
+    "date": "2015/02/07",
+    "build": "77725"
+}
