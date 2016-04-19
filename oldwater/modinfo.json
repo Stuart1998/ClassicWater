@@ -4,15 +4,16 @@
     "display_name": "Classic Water",
     "description": "Replaces the bland water of today with the amazing water that had so much depth from early Beta!",
     "author": "Stuart98",
-    "version": "1.0",
+    "version": "1.1",
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
+	"icon": "http://i.imgur.com/l1W4RKx.jpg?1",
     "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
     "category": [
         "Planets",
         "Water"
     ],
-    "date": "2015/02/07",
-    "build": "77725"
+    "date": "2016/04/18",
+    "build": "89755"
 }
